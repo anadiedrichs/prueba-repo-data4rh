@@ -1,6 +1,8 @@
 # prueba-repo-data4rh
 Este es un repositorio de prueba para el taller 
 
-## subtitulo
+## intro al taller
 
-un dos tres probando
+1er) Crea repositorio vacio
+2do) Agrega README.md
+
